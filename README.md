@@ -11,7 +11,7 @@
 
 ---
 
-## Introduction to statistics
+# Introduction to statistics
 Statistics is the science of collecting, organizing and analyzing data. <br><br>
 
 Data => Facts or pieces of information that can be measured,collected and analyzed.    
@@ -31,7 +31,7 @@ Importance of statistics :
 
 ---
 
-## Types of Statistics
+# Types of Statistics
 
 - Descriptive statistics 
 - Inferential statistics
@@ -40,7 +40,7 @@ Importance of statistics :
 
 ---
 
-## Descriptive statistics
+# Descriptive statistics
 <br>
 Descriptive statistics involves methods for summarizing and organizing data to make it understandable. This type of statistics helps to describe basic features of the data in a study.
 <br><br>
@@ -67,19 +67,19 @@ Topics in descriptive statistics:
 
 ---
 
-## Inferential statistics
+# Inferential statistics
 
 ---
 
-## Sample data vs Population data
+# Sample data vs Population data
 
 ---
 
-## Types of Sampling
+# Types of Sampling
 
 ---
 
-## Types of data
+# Types of data
 
 ---
 
