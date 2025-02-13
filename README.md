@@ -50,27 +50,59 @@ Topics in descriptive statistics:
   - Mean
   - Median
   - Mode
-<br>
-
 - Measure of dispersion
   - Variance
   - Standard deviation
-<br>
-
+  - Range
 - Data distribution
   - Histograms
   - Box plot
   - Pie chart
   - PDF (Probability Density Function)
   - PMF (Probability Masss Function)
-<br>
-
 - Summary statistics
   - Five Number summary (Minimum value,Q1,Median value,Q3,Maximum value)
+
+<br>
+
+Examples of descriptive statistics:
+- Mean score of students
+- Range of temperatures
+- Histogram of ages
+
+<br><br>
 
 ---
 
 # Inferential statistics
+<br>
+Inferential statistics involves methods for making predictions or inferences about a population based on a sample data. It allows for hypothesis testing, estimation and drawing conclusions.
+<br><br>
+
+Topics in inferential statistics:
+- Hypothesis testing
+   - Null hypothesis
+   - Alternative hypothesis
+   - P-value
+- Confidence intervals
+- Regression Analysis
+   - Simple regression
+   - Multiple linear regression
+- Statistical analysis tests
+   - Z test
+   - T test
+   - Annova test
+   - CHI square test
+<br>
+
+Examples of inferential statistics:
+- P-value in test scores comparison.
+- 95% confidence interval for average height.
+- House price prediction
+- Comparing test scores of different schools
+- Association between gender and product performance.
+
+<br><br>
 
 ---
 
