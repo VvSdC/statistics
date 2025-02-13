@@ -1,0 +1,1 @@
+### This repository contains basic concepts of statistics that are required for data science and machine learning
