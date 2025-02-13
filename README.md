@@ -32,12 +32,38 @@ Importance of statistics :
 ---
 
 ## Types of Statistics
-- Descriptive statistics
+
+- Descriptive statistics 
 - Inferential statistics
+  
+<br>
 
 ---
 
 ## Descriptive statistics
+<br>
+Descriptive statistics involves methods for summarizing and organizing data to make it understandable. This type of statistics helps to describe basic features of the data in a study.
+<br><br>
+
+Topics in descriptive statistics:
+- Measure of central tendency
+  - Mean
+  - Median
+  - Mode
+<br>
+
+- Measure of dispersion
+  - Variance
+  - Standard deviation
+<br>
+
+- Data distribution
+  - Histograms
+  - Box plot
+  - Pie chart
+  - PDF (Probability Density Function)
+  - PMF (Probability Masss Function)
+<br>
 
 ---
 
