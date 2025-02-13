@@ -65,6 +65,9 @@ Topics in descriptive statistics:
   - PMF (Probability Masss Function)
 <br>
 
+- Summary statistics
+  - Five Number summary (Minimum value,Q1,Median value,Q3,Maximum value)
+
 ---
 
 # Inferential statistics
