@@ -177,8 +177,12 @@ There are two types of sampling:
     from each department to form a survey sample.
   - Dividing people based on age groups
 
-- Cluster sampling
+- Cluster sampling : <br><br>
   We divide the population into clusters and then randomly select members from each cluster. 
+  <br>
+  Examples of cluster sampling: <br>
+  - Randomly select several schools from a district and randomly surveying all teachers within 
+    those schools.
 
 
 <br><br>
