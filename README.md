@@ -4,7 +4,8 @@
 - [Types of statistics](#types-of-statistics)
 - [Descriptive statistics](#descriptive-statistics)
 - [Inferential statistics](#inferential-statistics)
-- [Sample data vs Population data](#sample-data-vs-population-data)
+- [Sample data](#sample-data)
+- [Population data](#population-data)
 - [Types of Sampling](#types-of-sampling)
 - [Types of Data](#types-of-data)
 - [Scale of measurement of data](#scales-of-measurement-of-data)
@@ -104,9 +105,26 @@ Examples of inferential statistics:
 
 <br><br>
 
+
 ---
 
-# Sample data vs Population data
+# Population data
+
+A population is the entire set of individuals or objects of intrest in a particular study. It includes all members of a defined group that we are studying or collecting information on. <br>
+
+<h5>Characteristics of population : </h5>
+
+- Contains all observations of interest. (Complete set)
+- Parameter is the numerical value that summarizes entire population i.e population mean,population variance etc.
+
+<br><br>
+
+---
+
+# Sample data
+
+A sample is a subset of the population that is used to represent the entire group. Sampling involves selecting a group of individuals or observations from the population to draw conclusions about the whole population.
+
 
 ---
 
