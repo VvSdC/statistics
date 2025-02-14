@@ -6,6 +6,7 @@
 - [Inferential statistics](#inferential-statistics)
 - [Sample data](#sample-data)
 - [Population data](#population-data)
+- [Statistic vs Parameter](#statistic-vs-parameter)
 - [Types of Sampling](#types-of-sampling)
 - [Types of Data](#types-of-data)
 - [Scale of measurement of data](#scales-of-measurement-of-data)
@@ -125,6 +126,22 @@ A population is the entire set of individuals or objects of intrest in a particu
 
 A sample is a subset of the population that is used to represent the entire group. Sampling involves selecting a group of individuals or observations from the population to draw conclusions about the whole population.
 
+<h5>Characteristics of sample data : </h5>
+
+- Subset of population (Represents portion of the population)
+- Statistic in the numerical value summarizing the sample data i.e sample mean, sample variance.
+- Sample are randomly sampled/selected from the population to avoid bias.
+
+<br><br>
+
+---
+
+# Statistic vs Parameter
+
+- Statistic is the numerical value that summarizes the <strong>sample data</strong>. Examples of statistic are sample mean,sample variance etc.
+- Parameter is the numberical value that summarizes the <strong>population data</strong>. Examples of parameter are population mean, population variance etc.
+
+  <br><br>
 
 ---
 
