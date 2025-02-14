@@ -8,6 +8,8 @@
 - [Population data](#population-data)
 - [Statistic vs Parameter](#statistic-vs-parameter)
 - [Types of Sampling](#types-of-sampling)
+   - [Probability Sampling](#probability-sampling)
+   - [Non Probability Sampling](#non-probability-sampling)
 - [Types of Data](#types-of-data)
 - [Scale of measurement of data](#scales-of-measurement-of-data)
 
@@ -146,6 +148,40 @@ A sample is a subset of the population that is used to represent the entire grou
 ---
 
 # Types of Sampling
+
+There are two types of sampling:
+- Probability Sampling
+- Non probability sampling
+
+<br><br>
+
+---
+# Probability sampling
+
+- Simple random sampling : <br><br>
+  Every member of the population has an equal chance of being selected.<br><br>
+  Examples of simple random sampling: <br>
+  - Selecting people randomly from the population
+  - Drawing names randomly from a class of students
+
+- Systematic sampling : <br><br>
+  Select every nth member of the population after a radmon starting point.<br><br>
+  Examples of systematic sampling : <br>
+  - Taking feedback survey from every 7th customer.
+
+- Stratified sampling: <br><br>
+  Divide the population into strata/groups based on specific characteristics and them randomly 
+  sample from each strata.<br><br>
+  Examples of stratified sampling : <br>
+  - Divide employees in company by department and then randomly select a proportional number 
+    from each department to form a survey sample.
+  - Dividing people based on age groups
+
+- Cluster sampling
+  We divide the population into clusters and then randomly select members from each cluster. 
+
+
+<br><br>
 
 ---
 
