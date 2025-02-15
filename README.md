@@ -274,7 +274,7 @@ There are 4 primary scales of measurement of data:
 - [Interval Scale](#interval-scale)
 - [Ratio Scale](#ratio-scale)
 
-## Nominal scale
+### Nominal scale
 
 This scale classifies data into distinct categories that donot have an intrinsic order.
 It has Qualtitative/categorical data. <br>
