@@ -264,7 +264,7 @@ There are two types of data :
 
 ---
 
-## Scales of Measurement of data
+### Scales of Measurement of data
 
 The scales of measurement of data describe the nature of information within the values assigned to variables.
 
@@ -290,7 +290,7 @@ Examples of nominal scale:
 - Cuisines (Chinese / Italian / Indian etc)
 
 
-## Ordinal scale
+### Ordinal scale
 
 This scale classifies the data into categories that can be ranked or ordered. <br>
 
@@ -305,7 +305,7 @@ Examples of ordinal scale:
 - Customer feedback (Satisfied, Very satisfied,not satisfied). They can be ranked as Very 
   satisfied > satisfied > not statisfied.
 
-## Interval Scale
+### Interval Scale
 
 This scale categorises and orders data like ordinal data but also specifies the exact difference between intervals. **It lacks a true zero point**. <br>
 
@@ -324,7 +324,7 @@ Example of interval scale:
 - Calendar years (2012,2013,2014...) <br>
   The differences between intervals are equal and there is no true zero point.
 
-## Ratio scale
+### Ratio scale
 
 This scale categorises and orders data, differences are measurable and also contain a zero starting point. <br>
 
