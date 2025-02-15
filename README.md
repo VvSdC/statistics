@@ -195,6 +195,33 @@ There are two types of sampling:
 
 ---
 
+# Non Probability Sampling :
+
+- Convinience sampling: <br><br>
+  We select individuals who are easiest to reach.<br>
+  Example of covinience sampling:
+  - Surveying people at the mall
+
+- Judgemental/Purposive sampling: <br><br>
+  Selecting individuals based on researchers judgement i.e selecting individuals that can be 
+  useful or representative.
+  Example of judgemental sampling:
+  - Choosing experts in a field to participate. (If we want a survey on AI , we would select 
+    people are are experts in AI because they are useful.)
+
+- Snowball sampling: <br><br>
+  Existing study subjects recruit future subjects from among their acquaintances.
+  Example of snowball sampling:
+  - Surveying people having a rare disease.
+
+- Quota sampling : <br><br>
+  Selecting individuals based on characteristics or quota like age, group, gender, religion.
+
+<h6>Selecting sampling techniques depends on the use case</h6>
+<br><br>
+
+---
+
 # Types of data
 
 ---
