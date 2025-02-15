@@ -251,8 +251,22 @@ There are two types of sampling:
     Examples of ordinal data: 
     - Customer rating (Good,Bad,worst), we can rank Good>Bad>Worst
 
+<br><br>
+
 ---
 
 ## Scales of Measurement of data
+
+The scales of measurement of data describe the nature of information within the values assigned to variables.
+
+There are 4 primary scales of measurement of data:
+- [Nominal Scale](#nominal-scale)
+- [Ordinal Scale](#ordinal-scale)
+- [Interval](#interval)
+- [Ratio](#ratio)
+
+#### Nominal scale
+
+This scale classifies data into distinct categories that donot have an intrinsic order.
 
 ---
