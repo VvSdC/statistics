@@ -271,10 +271,10 @@ The scales of measurement of data describe the nature of information within the 
 There are 4 primary scales of measurement of data:
 - [Nominal Scale](#nominal-scale)
 - [Ordinal Scale](#ordinal-scale)
-- [Interval](#interval)
-- [Ratio](#ratio)
+- [Interval Scale](#interval-scale)
+- [Ratio Scale](#ratio-scale)
 
-#### Nominal scale
+## Nominal scale
 
 This scale classifies data into distinct categories that donot have an intrinsic order.
 It has Qualtitative/categorical data. <br>
@@ -290,8 +290,58 @@ Examples of nominal scale:
 - Cuisines (Chinese / Italian / Indian etc)
 
 
-#### Ordinal scale
+## Ordinal scale
 
-This scale classifies the data into categories that can be ranked or ordered.
+This scale classifies the data into categories that can be ranked or ordered. <br>
+
+Characteristics of ordinal scale:
+- Data is categorised and ranked in a specific order.
+- The intervals between ranks are not necessarily equal.
+
+Examples of ordinal scale:
+- Education level (High School,Bachelors,Masters). They can be ranked as Masters > Bachelors > 
+  High School. They can also be ranked as High School = 1, Bachelors = 2 and Masters = 3 after 
+  performing feature engineering.
+- Customer feedback (Satisfied, Very satisfied,not satisfied). They can be ranked as Very 
+  satisfied > satisfied > not statisfied.
+
+## Interval Scale
+
+This scale categorises and orders data like ordinal data but also specifies the exact difference between intervals. **It lacks a true zero point**. <br>
+
+Characteristics of interval scale:
+- Data is ordered with consistent interval between values.
+- It allows for meaningful comparison of differences but ratio cannot be measured.
+- It has no true zero point.
+
+Example of interval scale:
+- Temperature in Fahrenheit (10def F,20deg F,30deg F). <br>
+  The differences between interval values are equal. <br>
+  There is no true zero point i.e odeg F means no temperature.
+- IQ score of students (90,100,110)<br>
+  The differences between intervals are equal. <br>
+  There is no true zero point i.e 0 IQ means no IQ
+- Calendar years (2012,2013,2014...) <br>
+  The differences between intervals are equal and there is no true zero point.
+
+## Ratio scale
+
+This scale categorises and orders data, differences are measurable and also contain a zero starting point. <br>
+
+Characteristics of ratio scale:
+- Data is ordered
+- Differences are measurable
+- Contains a true zero point i.e has a 0 start point <br>
+
+Example of ratio scale :
+- Student marks in exam (0,15,30,45,60...). <br>
+  We can say that the person who scored 60 has scored 4 times more than the person who scored 
+  15. Differences are equal and there exists a zero starting point too.
+
+
+  
+
+
+<br><br>
 
 ---
