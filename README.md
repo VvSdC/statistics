@@ -194,8 +194,7 @@ There are two types of sampling:
 <br><br>
 
 ---
-
-# Non probability sampling :
+# Non probability sampling
 
 - Convinience sampling: <br><br>
   We select individuals who are easiest to reach.<br>
