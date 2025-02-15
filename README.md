@@ -178,11 +178,17 @@ There are two types of sampling:
   - Dividing people based on age groups
 
 - Cluster sampling : <br><br>
-  We divide the population into clusters and then randomly select members from each cluster. 
+  We divide the population into clusters, randomly select clusters and then select all members 
+  from that clusters. 
   <br>
   Examples of cluster sampling: <br>
-  - Randomly select several schools from a district and randomly surveying all teachers within 
-    those schools.
+  - Randomly select a district and survey all teachers in the selected schools.
+ 
+- Multi stage sampling : <br><br>
+  We combine different sampling methods. It usually involves selecting clusters and then 
+  random sampling within those clusters.<br>
+  Examples of multi stage sampling: <br>
+  - Randomly select cities and in each selected city, randomly sampling households.
 
 
 <br><br>
