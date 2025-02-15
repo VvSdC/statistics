@@ -288,6 +288,7 @@ Examples of nominal scale:
 - Gender (Male / Female)
 - Colors (Violet / Blue/ Green etc)
 - Cuisines (Chinese / Italian / Indian etc)
+<br><br>
 
 
 ### Ordinal scale
@@ -304,6 +305,7 @@ Examples of ordinal scale:
   performing feature engineering.
 - Customer feedback (Satisfied, Very satisfied,not satisfied). They can be ranked as Very 
   satisfied > satisfied > not statisfied.
+  <br><br>
 
 ### Interval Scale
 
@@ -323,6 +325,7 @@ Example of interval scale:
   There is no true zero point i.e 0 IQ means no IQ
 - Calendar years (2012,2013,2014...) <br>
   The differences between intervals are equal and there is no true zero point.
+  <br><br>
 
 ### Ratio scale
 
