@@ -158,63 +158,70 @@ There are two types of sampling:
 ---
 # Probability sampling
 
-- Simple random sampling : <br>
+- Simple random sampling : <br><br>
   Every member of the population has an equal chance of being selected.<br>
   Examples of simple random sampling: <br>
   - Selecting people randomly from the population
   - Drawing names randomly from a class of students
+<br>
 
-- Systematic sampling : <br>
+- Systematic sampling : <br><br>
   Select every nth member of the population after a radmon starting point.<br>
   Examples of systematic sampling : <br>
   - Taking feedback survey from every 7th customer.
+<br>
 
-- Stratified sampling: <br>
+- Stratified sampling: <br><br>
   Divide the population into strata/groups based on specific characteristics and them randomly 
   sample from each strata.<br>
   Examples of stratified sampling : <br>
   - Divide employees in company by department and then randomly select a proportional number 
     from each department to form a survey sample.
   - Dividing people based on age groups
+<br>
 
-- Cluster sampling : <br>
+- Cluster sampling : <br><br>
   We divide the population into clusters, randomly select clusters and then select all members 
   from that clusters. 
   <br>
   Examples of cluster sampling: <br>
   - Randomly select a district and survey all teachers in the selected schools.
- 
-- Multi stage sampling : <br>
+<br>
+
+- Multi stage sampling : <br><br>
   We combine different sampling methods. It usually involves selecting clusters and then 
   random sampling within those clusters.<br>
   Examples of multi stage sampling: <br>
   - Randomly select cities and in each selected city, randomly sampling households.
-
 
 <br><br>
 
 ---
 # Non probability sampling
 
-- Convinience sampling: <br>
+- Convinience sampling: <br><br>
   We select individuals who are easiest to reach.<br>
   Example of covinience sampling:
   - Surveying people at the mall
+<br>
 
-- Judgemental/Purposive sampling: <br>
+- Judgemental/Purposive sampling: <br><br>
   Selecting individuals based on researchers judgement i.e selecting individuals that can be 
   useful or representative.<br>
   Example of judgemental sampling:
   - Choosing experts in a field to participate. (If we want a survey on AI , we would select 
     people are are experts in AI because they are useful.)
+<br>
 
-- Snowball sampling: <br>
+- Snowball sampling: <br><br>
   Existing study subjects recruit future subjects from among their acquaintances.<br>
   Example of snowball sampling:
   - Surveying people having a rare disease.
+<br>
 
-- Quota sampling : <br>
+- Quota sampling : <br><br>
   Selecting individuals based on characteristics or quota like age, group, gender, religion.
+<br>
 
 <h6>Selecting sampling techniques depends on the use case</h6>
 <br><br>
