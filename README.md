@@ -159,19 +159,19 @@ There are two types of sampling:
 # Probability sampling
 
 - Simple random sampling : <br>
-  Every member of the population has an equal chance of being selected.<br><br>
+  Every member of the population has an equal chance of being selected.<br>
   Examples of simple random sampling: <br>
   - Selecting people randomly from the population
   - Drawing names randomly from a class of students
 
 - Systematic sampling : <br>
-  Select every nth member of the population after a radmon starting point.<br><br>
+  Select every nth member of the population after a radmon starting point.<br>
   Examples of systematic sampling : <br>
   - Taking feedback survey from every 7th customer.
 
 - Stratified sampling: <br>
   Divide the population into strata/groups based on specific characteristics and them randomly 
-  sample from each strata.<br><br>
+  sample from each strata.<br>
   Examples of stratified sampling : <br>
   - Divide employees in company by department and then randomly select a proportional number 
     from each department to form a survey sample.
