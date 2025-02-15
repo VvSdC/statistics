@@ -203,13 +203,13 @@ There are two types of sampling:
 
 - Judgemental/Purposive sampling: <br><br>
   Selecting individuals based on researchers judgement i.e selecting individuals that can be 
-  useful or representative.
+  useful or representative.<br>
   Example of judgemental sampling:
   - Choosing experts in a field to participate. (If we want a survey on AI , we would select 
     people are are experts in AI because they are useful.)
 
 - Snowball sampling: <br><br>
-  Existing study subjects recruit future subjects from among their acquaintances.
+  Existing study subjects recruit future subjects from among their acquaintances.<br>
   Example of snowball sampling:
   - Surveying people having a rare disease.
 
@@ -222,6 +222,24 @@ There are two types of sampling:
 ---
 
 # Types of data
+
+- Quantitative data
+  - Discrete data
+    Discrete data means that data are in the form of whole numbers.<br>
+    Example : Number of bank accounts {0,1,2..}, Number of children {0,1,2,3...}
+  - Continuous data
+    Continuous data can have any numerical value.<br>
+    Example : Weight {70.11,70.112,70.2...} , Height {6.51,6.553,...}, Speed<br>
+- Qualitative data / Categorical data
+  - Nominal data
+    We donot have any ranking in nominal data. <br>
+    Example of nominal data :
+    - Gender (M,F), we cannot rank F>M or M>F
+    - Blood group (A,B,O..), we cannot rank A > B or B > A
+  - Ordinal data
+    We have ranking in ordinal data. <br>
+    Examples of ordinal data: 
+    - Customer rating (Good,Bad,worst), we can rank Good>Bad>Worst
 
 ---
 
