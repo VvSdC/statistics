@@ -230,21 +230,21 @@ There are two types of sampling:
 
 # Types of data
 
-- Quantitative data
-  - Discrete data : <br>
+- Quantitative data <br><br>
+  - Discrete data : <br><br>
     Discrete data means that data are in the form of whole numbers.<br>
     Example : Number of bank accounts {0,1,2..}, Number of children {0,1,2,3...}
-  - Continuous data : <br>
+  - Continuous data : <br><br>
     Continuous data can have any numerical value.<br>
     Example : Weight {70.11,70.112,70.2...} , Height {6.51,6.553,...}, Speed
     <br><br>
-- Qualitative data / Categorical data
-  - Nominal data : <br>
+- Qualitative data / Categorical data <br><br>
+  - Nominal data : <br><br>
     We donot have any ranking in nominal data. <br>
     Example of nominal data :
     - Gender (M,F), we cannot rank F>M or M>F
     - Blood group (A,B,O..), we cannot rank A > B or B > A
-  - Ordinal data : <br>
+  - Ordinal data : <br><br>
     We have ranking in ordinal data. <br>
     Examples of ordinal data: 
     - Customer rating (Good,Bad,worst), we can rank Good>Bad>Worst
