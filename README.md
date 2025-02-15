@@ -277,5 +277,21 @@ There are 4 primary scales of measurement of data:
 #### Nominal scale
 
 This scale classifies data into distinct categories that donot have an intrinsic order.
+It has Qualtitative/categorical data. <br>
+
+Characteristics of nominal scale : <br>
+- Data is categorised based on labels,names or qualities
+- Categories are mutually exclusive (Example : Gender can have a value as Male or Female but not both)
+- No logical order is present among the categories i.e there is no rank or ordering.
+
+Examples of nominal scale:
+- Gender (Male / Female)
+- Colors (Violet / Blue/ Green etc)
+- Cuisines (Chinese / Italian / Indian etc)
+
+
+#### Ordinal scale
+
+This scale classifies the data into categories that can be ranked or ordered.
 
 ---
