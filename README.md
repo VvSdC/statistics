@@ -230,7 +230,7 @@ There are two types of sampling:
 
 # Types of data
 
-- Quantitative data <br><br>
+- **Quantitative data** <br><br>
   - Discrete data : <br>
     Discrete data means that data are in the form of whole numbers.<br>
     Example : Number of bank accounts {0,1,2..}, Number of children {0,1,2,3...}
@@ -239,7 +239,7 @@ There are two types of sampling:
     Continuous data can have any numerical value.<br>
     Example : Weight {70.11,70.112,70.2...} , Height {6.51,6.553,...}, Speed
     <br><br>
-- Qualitative data / Categorical data <br><br>
+- **Qualitative data / Categorical data** <br><br>
   - Nominal data : <br>
     We donot have any ranking in nominal data. <br>
     Example of nominal data :
