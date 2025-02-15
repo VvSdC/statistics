@@ -230,26 +230,35 @@ There are two types of sampling:
 
 # Types of data
 
-- **Quantitative data** <br><br>
-  - Discrete data : <br>
-    Discrete data means that data are in the form of whole numbers.<br>
-    Example : Number of bank accounts {0,1,2..}, Number of children {0,1,2,3...}
-    <br>
-  - Continuous data : <br>
-    Continuous data can have any numerical value.<br>
-    Example : Weight {70.11,70.112,70.2...} , Height {6.51,6.553,...}, Speed
-    <br><br>
-- **Qualitative data / Categorical data** <br><br>
-  - Nominal data : <br>
-    We donot have any ranking in nominal data. <br>
-    Example of nominal data :
-    - Gender (M,F), we cannot rank F>M or M>F
-    - Blood group (A,B,O..), we cannot rank A > B or B > A
-    <br>
-  - Ordinal data : <br>
-    We have ranking in ordinal data. <br>
-    Examples of ordinal data: 
-    - Customer rating (Good,Bad,worst), we can rank Good>Bad>Worst
+There are two types of data :
+- [Quantitative data](#quantitative-data)
+- [Qualitative data](#qualitative-data)
+
+#### Quantitative data
+
+- Discrete data : <br>
+  Discrete data means that data are in the form of whole numbers.<br>
+  Example : Number of bank accounts {0,1,2..}, Number of children {0,1,2,3...}
+  <br>
+
+- Continuous data : <br>
+  Continuous data can have any numerical value.<br>
+  Example : Weight {70.11,70.112,70.2...} , Height {6.51,6.553,...}, Speed
+  <br><br>
+  
+#### Qualitative data 
+  It is also known as categorical data
+  
+- Nominal data : <br>
+  We donot have any ranking in nominal data. <br>
+  Example of nominal data :
+  - Gender (M,F), we cannot rank F>M or M>F
+  - Blood group (A,B,O..), we cannot rank A > B or B > A
+  <br>
+- Ordinal data : <br>
+  We have ranking in ordinal data. <br>
+  Examples of ordinal data: 
+  - Customer rating (Good,Bad,worst), we can rank Good>Bad>Worst
 
 <br><br>
 
