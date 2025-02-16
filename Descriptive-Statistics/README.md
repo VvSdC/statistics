@@ -177,6 +177,9 @@ Age, weight and salary are either intervals or ordinal data. So, we can use mean
 ![image](https://github.com/user-attachments/assets/89b60ab6-8f49-4b84-bdc3-6b5d99b98b02)
 
 <br>
+
+But since gender and degree are nominal / nominal + ordinal data, we cannot use either mean or median. We can replace the missing values with **mode** in this case. <br><br>
+
 So, the measure of central tendency finds applications in EDA (Exploratory Data Analysis) and Feature Engineering.
 <br><br>
 
