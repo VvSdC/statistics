@@ -296,7 +296,7 @@ Characteristics of standard deviation:
 ![image](https://github.com/user-attachments/assets/c297a885-7178-423b-9d4f-5638e59cc148)
 
 <br>
-Population variance is divided by N while sample variance is divided by n-1. This is called **Bessel correction**. 
+Population variance is divided by N while sample variance is divided by n-1. This is called **Bessel correction**.  It is done because if we donot select sample data properly from population data, we often underestimate the value of population variance. So, to avoid this we use this correction to increase the value of sample variance to bridge the gap between values of sample and population variance.
 <br><br>
 
 ![image](https://github.com/user-attachments/assets/c93d9002-89bd-4a60-bebd-26a0cc055bd0)
