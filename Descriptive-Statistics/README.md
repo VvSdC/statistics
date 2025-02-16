@@ -305,4 +305,43 @@ Population variance is divided by N while sample variance is divided by n-1. Thi
 
 So, this correction reduces the gap between actual values of population and sample variance. Thereby we can provide better insights of population data from sample data. **This doesn't entirely solve the problem but reduces the gap between the values**
 
+<br><br>
+
+---
+
+# Random variables
+
+Random variables is a function whose values are derived from different processes or experiments. <br>
+
+Examples of random variables :
+- Tossing a coin <br>
+  X = { Head (0) or Tail (1) }
+- Rolling a fair dice <br>
+  X = {1 or 2 or 3 or 4 or 5 or 6}
+<br>
+
+Types of random variables : 
+- [Discrete random variables](#discrete-random-variables)
+- [Continuous random variables](#continuous-random-variables)
+<br>
+
+### Discrete random variables
+Discrete random variables have countable number of outcomes and are typically whole numbers.<br>
+Examples of discrete random variables:
+ - Number of students in the class <br>
+   Possible outcomes = 0 to maximum number of students in class and are integers
+ - Number of heads obtained after tossing a coin thrice
+   Possible outcomes = 0 to 3 and are integers
+   <br>
+
+### Continuous random variables
+Continuous random variables can take any value within a given range, including decimals and fractions. <br>
+Examples of continuous random variables:
+- Height of a person <br>
+  Possible outcomes = uncountable.
+  Posssible values = {5.7ft, 5.756ft, 5.7556ft...}
+- Time taken by a person to complete race
+  Possible outcomes = uncountable and can be fractions/decimal numbers
+  Possible values = {9.80s,9.8026s......}
+  
 
