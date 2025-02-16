@@ -226,12 +226,13 @@ Adding just one outlier changed the range drastically. So, range is very sensiti
 
 ### Variance
 
-Variance measures the average squared deviation of each value in the dataset from the mean. It provides a sense of how much the values in a dataset vary.
+Variance measures the average squared deviation of each value in the dataset from the mean. It provides a sense of how much the values in a dataset vary. <br>
 
 Types of variance:
 - [Population variance](#population-variance)
 - [Sample variance](#sample-variance)
 
+<br>
 
 ##### Population variance
 
@@ -249,6 +250,24 @@ Example of population variance:
 
 ![image](https://github.com/user-attachments/assets/e13b26aa-d0d3-426a-b588-a901a01a5be9)
 
-**Population variance is divided by N while sample variance is divided by n-1 because of Bessel's correction**. Go to [why is sample variance divided by n-1](#why-is-sample-variance-divided-by-n-1) to understand. <br><br>
+**Population variance is divided by N while sample variance is divided by n-1 because of Bessel's correction**. Go to [why is sample variance divided by n-1](#why-is-sample-variance-divided-by-n-1) to understand. <br>
+
+Characteristics of variance:
+- Variance provides a precise measure of variability.
+- Units of variance are squared of the original units
+- [Very sensitive to outliers than the range](#affect-of-outliers-on-variance)
+<br>
+
+##### Affect of outliers on variance
+
+![image](https://github.com/user-attachments/assets/32e561a7-564b-40e8-ab82-976945742e4e)
+
+<br>
+
+Adding an outlier changed the value of variance drastically. The change is more drastic compared to range. So, variance is more sensitive to outliers than the range. This is because we square up in variance.
+
+<br><br>
+
+---
 
 
