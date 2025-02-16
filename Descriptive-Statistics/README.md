@@ -290,3 +290,17 @@ Characteristics of standard deviation:
 <br><br>
 
 ---
+
+# Why is standard deviation divided by n-1
+
+![image](https://github.com/user-attachments/assets/c297a885-7178-423b-9d4f-5638e59cc148)
+
+<br>
+Population variance is divided by N while sample variance is divided by n-1. This is called **Bessel correction**. <br>
+
+![image](https://github.com/user-attachments/assets/c93d9002-89bd-4a60-bebd-26a0cc055bd0)
+
+<br>
+So, this correction reduces the gap between actual values of population and sample variance. Thereby we can provide better insights of population data from sample data. **This doesn't entirely solve the problem but reduces the gap between the values.**
+
+
