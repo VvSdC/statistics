@@ -53,3 +53,13 @@ Median is the middle value in a dataset where values in the dataset are arranged
 ![image](https://github.com/user-attachments/assets/e7016a5f-4226-4d6c-a0bd-c3c2132e1647)
 
 <br><br>
+
+Characteristics of median:
+- [Median is not affected by extreme outliers](#affect-of-outliers-on-median)
+- Median is used for ordinal,interval and ratio data.
+
+##### Affect of outliers on Median
+
+![image](https://github.com/user-attachments/assets/345db43a-ef75-4b3f-8b87-a68a2d150000)
+
+We can see that addition of one outlier did not change the value of median. So, we can say that the median is immune to outliers.
