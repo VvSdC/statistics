@@ -184,3 +184,36 @@ So, the measure of central tendency finds applications in EDA (Exploratory Data 
 <br><br>
 
 ---
+
+# Measure of dispersion
+
+Measures of dispersion describe the spread or variability of a dataset. They indicate how much the values in a dataset differ from the central tendency. <br>
+
+Common measures of dispersion:
+- [Range](#range)
+- [Variance](#variance)
+- [Standard Deviation](#standard-deviation)
+- [Interquartile Range(IQR)](#interquartile-range)
+
+<br><br>
+
+---
+
+### Range
+
+Range is the difference between the maximum value and minimum value in a dataset.
+
+![image](https://github.com/user-attachments/assets/b984182b-2599-417a-a75e-d62e27166055)
+
+<br>
+
+Characteristics of range:
+- Simple to calculate.
+- [Very sensitive to outliers](#affect-of-outliers-on-range)
+
+##### Affect of Outliers on Range
+
+![image](https://github.com/user-attachments/assets/cc21b5e5-7a35-4196-beeb-251ebc005c7e)
+
+<br>
+Adding just one outlier changed the range drastically. So, range is very sensitive to outliers.
