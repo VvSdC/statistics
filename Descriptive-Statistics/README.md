@@ -270,4 +270,23 @@ Adding an outlier changed the value of variance drastically. The change is more 
 
 ---
 
+### Standard deviation
 
+The standard deviation is the square root of the variance. <br>
+
+![image](https://github.com/user-attachments/assets/56008096-9602-4657-90c9-579cbf557579)
+
+<br>
+Identifying which data point falls under which standard deviation it falls from the mean, <br>
+
+![image](https://github.com/user-attachments/assets/f7b210ad-07b3-48f0-922a-59e0dafb4fa2)
+
+<br>
+
+Characteristics of standard deviation:
+- Provides a clear measure of spread in the same unit as the data.
+- Standard deviation is sensitive to outliers. (Since it is just square root of variance which also is sensitive to outliers).
+
+<br><br>
+
+---
