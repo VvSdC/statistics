@@ -1,6 +1,7 @@
 # TABLE OF CONTENTS
 - [Measure of central tendency](#measure-of-central-tendency)
 - [Choosing appropriate measure of central tendency](#choosing-appropriate-measure-of-central-tendency)
+- [Applications of measure of central tendency](#applications-of-measure-of-central-tendency)
 - [Measure of dispersion](#measure-of-dispersion)
 - [Why is sample variance divided by n-1](#why-is-sample-variance-divided-by-n-1)
 - [Random variables](#random-variables)
@@ -101,4 +102,82 @@ Characteristics of mode:
   Mode is best used for categorical data to identify most common category. It is useful for 
   identifying the most frequent value in ordinal, interval or ratio data.
 
-  
+<br><br>
+
+---
+
+# Applications of measure of central tendency
+
+Suppose we have a dataset,
+
+<table>
+  <tr>
+    <th>Age</th>
+    <th>Weight</th>
+    <th>Salary</th>
+    <th>Gender</th>
+    <th>Degree</th>
+  </tr>
+  <tr>
+    <td>24</td>
+    <td>70</td>
+    <td>40k</td>
+    <td>M</td>
+    <td>BE</td>
+  </tr>
+  <tr>
+    <td>25</td>
+    <td>80</td>
+    <td>70K</td>
+    <td>F</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>27</td>
+    <td>95</td>
+    <td>45k</td>
+    <td>F</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>24</td>
+    <td>-</td>
+    <td>50K</td>
+    <td>-</td>
+    <td>PhD</td>
+  </tr>
+  <tr>
+    <td>32</td>
+    <td>-</td>
+    <td>60K</td>
+    <td>-</td>
+    <td>BE</td>
+  </tr>
+  <tr>
+    <td>-</td>
+    <td>60</td>
+    <td>-</td>
+    <td>-</td>
+    <td>Masters</td>
+  </tr>
+  <tr>
+    <td>-</td>
+    <td>65</td>
+    <td>55K</td>
+    <td>M</td>
+    <td>BSc</td>
+  </tr>
+</table>
+
+<br>
+
+Age, weight and salary are either intervals or ordinal data. So, we can use mean of median to 
+ replace missing values of their data. 
+
+![image](https://github.com/user-attachments/assets/89b60ab6-8f49-4b84-bdc3-6b5d99b98b02)
+
+<br>
+So, the measure of central tendency finds applications in EDA (Exploratory Data Analysis) and Feature Engineering.
+<br><br>
+
+---
