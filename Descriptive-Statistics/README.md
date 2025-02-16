@@ -296,7 +296,8 @@ Characteristics of standard deviation:
 ![image](https://github.com/user-attachments/assets/c297a885-7178-423b-9d4f-5638e59cc148)
 
 <br>
-Population variance is divided by N while sample variance is divided by n-1. This is called **Bessel correction**. <br>
+Population variance is divided by N while sample variance is divided by n-1. This is called **Bessel correction**. 
+<br><br>
 
 ![image](https://github.com/user-attachments/assets/c93d9002-89bd-4a60-bebd-26a0cc055bd0)
 
