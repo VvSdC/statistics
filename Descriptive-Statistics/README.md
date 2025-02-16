@@ -57,9 +57,27 @@ Median is the middle value in a dataset where values in the dataset are arranged
 Characteristics of median:
 - [Median is not affected by extreme outliers](#affect-of-outliers-on-median)
 - Median is used for ordinal,interval and ratio data.
+<br>
 
 ##### Affect of outliers on Median
 
 ![image](https://github.com/user-attachments/assets/345db43a-ef75-4b3f-8b87-a68a2d150000)
 
 We can see that addition of one outlier did not change the value of median. So, we can say that the median is immune to outliers.
+
+<br><br>
+
+---
+
+
+### Mode
+
+Mode is the value that occurs most frequently in a dataset.
+
+![image](https://github.com/user-attachments/assets/c85cd563-81ef-4f02-9f31-dc98f5a6f199)
+
+<br><br>
+
+Characteristics of mode:
+- Mode is not affected by outliers.
+- This is used for all four scales of measurement of data i.e (Nominal scale, Ordinal scale, Interval scale and ratio scale). But this is often used for nominal scale.
