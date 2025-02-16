@@ -210,10 +210,45 @@ Range is the difference between the maximum value and minimum value in a dataset
 Characteristics of range:
 - Simple to calculate.
 - [Very sensitive to outliers](#affect-of-outliers-on-range)
+- Just provides the rough measure of dispersion (because we care only about maximum and minimum values in the distribution and donot care about other values).
+
+<br>
 
 ##### Affect of Outliers on Range
 
 ![image](https://github.com/user-attachments/assets/cc21b5e5-7a35-4196-beeb-251ebc005c7e)
 
-<br>
 Adding just one outlier changed the range drastically. So, range is very sensitive to outliers.
+
+<br><br>
+
+---
+
+### Variance
+
+Variance measures the average squared deviation of each value in the dataset from the mean. It provides a sense of how much the values in a dataset vary.
+
+Types of variance:
+- [Population variance](#population-variance)
+- [Sample variance](#sample-variance)
+
+
+##### Population variance
+
+![image](https://github.com/user-attachments/assets/dd90a8df-79f6-48da-b605-14a12f1a8849)
+
+<br>
+
+Example of population variance:
+
+![image](https://github.com/user-attachments/assets/fac36401-5598-464a-ab2a-bcd22e9a8b9b)
+
+<br><br>
+
+##### Sample variance
+
+![image](https://github.com/user-attachments/assets/e13b26aa-d0d3-426a-b588-a901a01a5be9)
+
+**Population variance is divided by N while sample variance is divided by n-1 because of Bessel's correction**. Go to [why is sample variance divided by n-1](#why-is-sample-variance-divided-by-n-1) to understand. <br><br>
+
+
