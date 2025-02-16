@@ -291,7 +291,7 @@ Characteristics of standard deviation:
 
 ---
 
-# Why is standard deviation divided by n-1
+# Why is sample variance divided by n-1
 
 ![image](https://github.com/user-attachments/assets/c297a885-7178-423b-9d4f-5638e59cc148)
 
