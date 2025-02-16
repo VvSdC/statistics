@@ -171,7 +171,7 @@ Suppose we have a dataset,
 
 <br>
 
-Age, weight and salary are either intervals or ordinal data. So, we can use mean of median to 
+Age, weight and salary are either interval or ratio data. So, we can use **mean or median** to 
  replace missing values of their data. 
 
 ![image](https://github.com/user-attachments/assets/89b60ab6-8f49-4b84-bdc3-6b5d99b98b02)
