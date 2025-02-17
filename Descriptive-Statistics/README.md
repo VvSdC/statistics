@@ -399,6 +399,11 @@ To remove outliers, we define values of lower fence and higher fence. The values
 
 ![image](https://github.com/user-attachments/assets/0eb54401-a7b8-4717-bcdb-29677d1a66ce)
 
+<br>
+
+![image](https://github.com/user-attachments/assets/b69e8bfa-2b1e-47af-88b3-a0916648754f)
+
+
 <br><br>
 
 ---
