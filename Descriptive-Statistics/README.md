@@ -6,6 +6,7 @@
 - [Why is sample variance divided by n-1](#why-is-sample-variance-divided-by-n-1)
 - [Random variables](#random-variables)
 - [Percentiles and Quartiles](#percentiles-and-quartiles)
+- [5 number summary](#five-number-summary)
 
 
 # Measure of central tendency
@@ -379,6 +380,22 @@ Every 25th percentage of the distribution is a quartile. <br>
 <br><br>
 
 ---
+
+# Five number summary
+
+- Minimum
+- 1st Quartile (Q1) -> 25th percentile
+- Median
+- 3rd Quartile (Q3) -> 75th percentile
+- Maximum
+
+To remove outliers, we define values of lower fence and higher fence. The values lesser than lower fence are outliers and the values greater than upper fence are also outliers. 
+
+<br>
+
+![image](https://github.com/user-attachments/assets/7d8bf3c0-1b25-436d-bff8-ee774196a612)
+
+<br>
 
 
 
