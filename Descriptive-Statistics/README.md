@@ -343,5 +343,42 @@ Examples of continuous random variables:
 - Time taken by a person to complete race
   Possible outcomes = uncountable and can be fractions/decimal numbers
   Possible values = {9.80s,9.8026s......}
-  
+
+  <br><br>
+
+  ---
+
+# Percentiles and Quartiles
+- [Percentiles](#percentiles)
+- [Quartiles](#quartiles)
+
+### Percentiles
+
+A percentile is a value below which certain percentage of observations lie.
+<br>
+
+![image](https://github.com/user-attachments/assets/11a76435-e25f-44c7-a9b9-0d7d307b6fb4)
+
+<br>
+
+Finding nth pecentile value,
+<br>
+
+![image](https://github.com/user-attachments/assets/4d4a952a-06b4-4ddd-b319-979f1d508f0e)
+
+<br>
+
+### Quartiles
+
+Every 25th percentage of the distribution is a quartile. <br>
+
+- 25th percentage -> 1st Quartile (Q1)
+- 50th percentage -> 2nd Quartiles (Q2)
+- 75th percentage -> 3rd Quartile (Q3)
+
+<br><br>
+
+---
+
+
 
