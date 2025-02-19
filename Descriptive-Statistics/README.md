@@ -7,7 +7,7 @@
 - [Random variables](#random-variables)
 - [Percentiles and Quartiles](#percentiles-and-quartiles)
 - [5 number summary](#five-number-summary)
-
+- [Histogram and Skewness](#histogram-and-skewness)
 
 # Measure of central tendency
 
@@ -407,4 +407,37 @@ To remove outliers, we define values of lower fence and higher fence. The values
 <br><br>
 
 ---
+
+# Histogram and skewness
+
+A histogram is a physical representation of the distribution of numerical data. It is an estimate of the probability distribution of a continuous variable and is used to visualize shape,central tendency and variability in dataset.<br>
+
+![image](https://github.com/user-attachments/assets/0b21613f-872a-4d51-b116-0ae4ff2b918f)
+
+<br>
+
+**Normal distribution :** <br>
+
+![image](https://github.com/user-attachments/assets/a749a259-bd3c-43e6-b878-3ad6988c0c6c)
+
+**Right skewed distribution:** <br>
+
+![image](https://github.com/user-attachments/assets/17abc971-9edb-4eb5-9fb0-191083cd274a)
+
+<br>
+
+**Left skewed distribution :** <br>
+
+![image](https://github.com/user-attachments/assets/4536192c-b8dc-4b62-b6d5-4b805e8c5992)
+
+<br>
+
+**Summary of skewness:** <br>
+
+![image](https://github.com/user-attachments/assets/c8014497-1687-4643-a411-f13ce1417dcf)
+
+<br><br>
+
+---
+
 
