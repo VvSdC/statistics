@@ -482,13 +482,13 @@ Covariance is a measure of how much two random variables change together. If the
  Formula for covariance : 
  <br>
 
- ![image](https://github.com/user-attachments/assets/902c5044-e185-4514-b74d-bd88de2342fb)
+![image](https://github.com/user-attachments/assets/7f8bb3ca-2261-492d-aa7b-0d528d4ed5ae)
 
 <br>
 Covariance between the same random variable is the variance of it.
 <br>
 
-![image](https://github.com/user-attachments/assets/792a8225-80f8-4c42-b1ca-809df39227f5)
+![image](https://github.com/user-attachments/assets/73fbab6a-3e25-4e4a-a0cf-e781857b2b0f)
 
 <br>
 
