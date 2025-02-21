@@ -506,7 +506,7 @@ Example of finding covariance :
 It quantifies the relationship between X and Y
 
 ##### Disadvantage of variance
-Covariance doesnot have a specific limit value i.e it ranges from -infinite to +infinite. If Covariance of A and B is 20 and Covariance of C and D is 30, we cannot say that covariance of C and D is more than covariance of A and B because there is not limit for the value of covariance.
+Covariance doesnot have a specific limit value i.e it ranges from -infinite to +infinite. <br> If Covariance of A and B is 20 and Covariance of C and D is 30, we cannot say that covariance of C and D is more than covariance of A and B because there is not limit for the value of covariance.
 
 
 <br><br>
@@ -515,6 +515,45 @@ Covariance doesnot have a specific limit value i.e it ranges from -infinite to +
 
 ### Correlation
 
+There are two types of correlation coefficients :
+- [Pearson correlation coefficient](#pearson-correlation-coefficient)
+- [Spearman correlation coefficient](#spearman-correlation-coefficient)
+
+
+##### Peasron correlation coefficient
+
+It limits the values to -1 to 1. So,it allows us to compare two different values of correlation, since the values are limited to a range [-1,1]. <br>
+
+![image](https://github.com/user-attachments/assets/f9b0ade3-6739-4e28-aef1-5c601d2a75a8)
+
+<br>
+
+- Values of pearson correlation coefficient closer to +1 has more positively correlated X and Y.
+- Values of pearson correlation coefficient closer to -1 has mpre ngeatively correlation X and Y.
+
+**Disadvantage of pearson correlation covariance**
+
+![image](https://github.com/user-attachments/assets/1b9fb896-174a-4eb9-9954-7e9eb5aa9dff)
+
+<br><br>
+
+##### Spearman correlation coefficient
+
+With spearmann correlation coefficient, we can capture correlation for both linear and non-linear data. It also limits the values to a range of [-1,+1].
+
+<br>
+
+![image](https://github.com/user-attachments/assets/bc19f2e3-e0b7-46f3-a75d-768df24d2ef2)
+
+<br>
+
+Finding Ranks, <br>
+
+![image](https://github.com/user-attachments/assets/24e19483-9aec-439b-ba35-fc070ebfc5db)
+
+<br><br>
+
+---
 
  
 
