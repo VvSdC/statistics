@@ -448,7 +448,9 @@ Covariance and correlation are two statistical measures used to determine the re
 - [Covariance](#covariance)
 - [Correlation](#correlation)
 
-<br>
+<br><br>
+
+---
 
 ### Covariance
 
@@ -485,12 +487,33 @@ Covariance is a measure of how much two random variables change together. If the
 ![image](https://github.com/user-attachments/assets/7f8bb3ca-2261-492d-aa7b-0d528d4ed5ae)
 
 <br>
+
 Covariance between the same random variable is the variance of it.
 <br>
 
 ![image](https://github.com/user-attachments/assets/73fbab6a-3e25-4e4a-a0cf-e781857b2b0f)
 
 <br>
+
+Example of finding covariance : 
+<br>
+
+![image](https://github.com/user-attachments/assets/1c057001-2159-44d3-b9cd-15c55962daba)
+
+<br>
+
+##### Advantages of covariance
+It quantifies the relationship between X and Y
+
+##### Disadvantage of variance
+Covariance doesnot have a specific limit value i.e it ranges from -infinite to +infinite. If Covariance of A and B is 20 and Covariance of C and D is 30, we cannot say that covariance of C and D is more than covariance of A and B because there is not limit for the value of covariance.
+
+
+<br><br>
+
+---
+
+### Correlation
 
 
  
