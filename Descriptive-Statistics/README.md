@@ -458,12 +458,12 @@ Covariance is a measure of how much two random variables change together. If the
   <tr>
     <td>X increases</td>
     <td>Y increases</td>
-    <td>**POSITIVE COVARIANCE**</td>
+    <th>POSITIVE COVARIANCE</th>
   </tr>
   <tr>
     <td>X decreases</td>
     <td>Y decreases</td>
-    <td>**POSITIVE COVARIANCE**</td>
+    <th>POSITIVE COVARIANCE</th>
   </tr>
   <tr>
     <td>X increases</td>
