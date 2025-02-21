@@ -448,9 +448,34 @@ Covariance and correlation are two statistical measures used to determine the re
 - [Covariance](#covariance)
 - [Correlation](#correlation)
 
-<br><br>
+<br>
 
 ### Covariance
 
 Covariance is a measure of how much two random variables change together. If the variables tend to increase and decrease together, the covariance is positive. If one tends to increase when the other decreases, the covariance is negative.
 
+<table>
+  <tr>
+    <td>X increases</td>
+    <td>Y increases</td>
+    <td>**POSITIVE COVARIANCE**</td>
+  </tr>
+  <tr>
+    <td>X decreases</td>
+    <td>Y decreases</td>
+    <td>**POSITIVE COVARIANCE**</td>
+  </tr>
+  <tr>
+    <td>X increases</td>
+    <td>Y decreases</td>
+    <td>NEGATIVE COVARIANCE</td>
+  </tr>
+  <tr>
+    <td>X decreases</td>
+    <td>Y increases</td>
+    <td>NEGATIVE COVARIANCE</td>
+  </tr>
+</table>
+ <br>
+
+ 
