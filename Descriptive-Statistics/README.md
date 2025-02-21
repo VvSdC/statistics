@@ -476,6 +476,23 @@ Covariance is a measure of how much two random variables change together. If the
     <td>NEGATIVE COVARIANCE</td>
   </tr>
 </table>
+
  <br>
+
+ Formula for covariance : 
+ <br>
+
+ ![image](https://github.com/user-attachments/assets/902c5044-e185-4514-b74d-bd88de2342fb)
+
+<br>
+Covariance between the same random variable is the variance of it.
+<br>
+
+![image](https://github.com/user-attachments/assets/792a8225-80f8-4c42-b1ca-809df39227f5)
+
+<br>
+
+
+ 
 
  
