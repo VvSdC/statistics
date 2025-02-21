@@ -520,7 +520,7 @@ There are two types of correlation coefficients :
 - [Spearman correlation coefficient](#spearman-correlation-coefficient)
 
 
-##### Peasron correlation coefficient
+##### Pearson correlation coefficient
 
 It limits the values to -1 to 1. So,it allows us to compare two different values of correlation, since the values are limited to a range [-1,1]. <br>
 
