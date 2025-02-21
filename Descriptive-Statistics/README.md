@@ -8,6 +8,7 @@
 - [Percentiles and Quartiles](#percentiles-and-quartiles)
 - [5 number summary](#five-number-summary)
 - [Histogram and Skewness](#histogram-and-skewness)
+- [Covariance and Correlation](#covariance-and-correlation)
 
 # Measure of central tendency
 
@@ -440,4 +441,16 @@ A histogram is a physical representation of the distribution of numerical data. 
 
 ---
 
+# Covariance and Correlation
+
+Covariance and correlation are two statistical measures used to determine the relationship between two variables. Both are used to understand how changes in one variable are associated with changes in another variable.
+
+- [Covariance](#covariance)
+- [Correlation](#correlation)
+
+<br><br>
+
+### Covariance
+
+Covariance is a measure of how much two random variables change together. If the variables tend to increase and decrease together, the covariance is positive. If one tends to increase when the other decreases, the covariance is negative.
 
